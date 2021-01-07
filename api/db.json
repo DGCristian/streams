@@ -1,0 +1,35 @@
+{
+  "streams": [
+    {
+      "title": "s",
+      "description": "s",
+      "id": 1
+    },
+    {
+      "title": "s",
+      "description": "s",
+      "id": 2
+    },
+    {
+      "title": "test3",
+      "description": "test3",
+      "id": 3
+    },
+    {
+      "title": "dsa",
+      "description": "dsa",
+      "id": 4
+    },
+    {
+      "title": "My Stream",
+      "description": "Editare cu PATCH",
+      "userId": "101460902156369974599",
+      "id": 5
+    },
+    {
+      "title": "Me Streaming Reuse",
+      "description": "Good to go!",
+      "id": 7
+    }
+  ]
+}
